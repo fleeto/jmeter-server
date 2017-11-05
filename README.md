@@ -8,7 +8,7 @@ JMeter Version: 3.3
 
 ## Env variables
 
-|Name|Default
+|Name|Default|
 |---|---|---|
 |RMI_HOST|`hostname`|
 |RMI_PORT|20000|
