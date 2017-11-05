@@ -1,0 +1,4 @@
+*.swap
+*.swp
+*.retry
+.DS_Store
