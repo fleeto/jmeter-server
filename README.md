@@ -22,5 +22,5 @@ JMeter Version: 3.3
 docker run \
 -p 1099:1099 -p 20000:20000 \
 -e RMI_HOST=docker-lab \
---name jmeter dustise/jmeter:3.3
+--name jmeter dustise/jmeter-server
 ~~~
